@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "Mein Traumhaus"
-date:   2017-11-27 12:43:59
-author: Ben Centra
+title:  "Meine Traumwohnung"
+date:   2017-11-27 12:40:59
+author: Tingting Shi
 categories: Deutsch
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Meine Traumwohnung muss groß sein. Sie hat ein langer Flur. Auf der rechten
+Seite gibt es zwei Zimmer. Das Zimmer unten ist mein Schlafzimmer. Es ist
+groß und hat ein Bad mit einem Fenster. Das Zimmer oben ist ein Kinderzimmer.
+Es ist ein bisschen klein aber hell. Neben dem Kinderzimmer ist anderes Bad.
+Es auch hat ein Fenster. Dann gibt es drei Zimmer auf der linken Seite. Das
+Zimmer oben ist ein Gästezimmer. Das Zimmer unten ist die Küche. Und das
+Wohnzimmer ist zwischen dem Gästezimmer und der Küche. Es hat einen groß Balkon
